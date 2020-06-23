@@ -1,10 +1,12 @@
 {
-    "idleHeartbeats": 254,
-    "navigatingHeartbeats": 184,
-    "totalCodingHeartbeats": 524,
+    "idleHeartbeats": 339,
+    "navigatingHeartbeats": 281,
+    "totalCodingHeartbeats": 817,
     "languageHeartbeats": {
         "typescript": 382,
-        "html": 142
+        "html": 354,
+        "plaintext": 10,
+        "scss": 71
     },
     "fileHeartbeats": {
         "src/app/films-list/films-list.component.ts": 113,
@@ -12,6 +14,10 @@
         "src/app/components/films-list/films-list.component.ts": 200,
         "src/app/app-routing.module.ts": 43,
         "src/app/app.module.ts": 26,
-        "src/app/components/films-list/films-list.component.html": 23
+        "src/app/components/films-list/films-list.component.html": 52,
+        "d:\\GeeksHubs\\teaching\\katas\\ng3\\movieApp\\README.md.git": 10,
+        "src/app/components/header/header.component.scss": 71,
+        "src/app/components/header/header.component.html": 115,
+        "src/app/components/welcome/welcome.component.html": 68
     }
 }
