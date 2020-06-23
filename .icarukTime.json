@@ -1,0 +1,17 @@
+{
+    "idleHeartbeats": 254,
+    "navigatingHeartbeats": 184,
+    "totalCodingHeartbeats": 524,
+    "languageHeartbeats": {
+        "typescript": 382,
+        "html": 142
+    },
+    "fileHeartbeats": {
+        "src/app/films-list/films-list.component.ts": 113,
+        "src/app/films-list/films-list.component.html": 119,
+        "src/app/components/films-list/films-list.component.ts": 200,
+        "src/app/app-routing.module.ts": 43,
+        "src/app/app.module.ts": 26,
+        "src/app/components/films-list/films-list.component.html": 23
+    }
+}
