@@ -25,8 +25,12 @@ export class FilmsListComponent implements OnInit {
     this.MovieService.getMovies()
     .subscribe(
       res=> this.pelisMostrar = res['results'],
-      error=>console.error(error)
+      error=>console.error(error),
+      () => console.log("este es el mítico console log ",this.pelisMostrar)
     )
+    
   }
+
+
 
 }

@@ -1,23 +1,28 @@
 {
-    "idleHeartbeats": 339,
-    "navigatingHeartbeats": 281,
-    "totalCodingHeartbeats": 817,
+    "idleHeartbeats": 861,
+    "navigatingHeartbeats": 832,
+    "totalCodingHeartbeats": 1820,
     "languageHeartbeats": {
-        "typescript": 382,
-        "html": 354,
+        "typescript": 1074,
+        "html": 655,
         "plaintext": 10,
-        "scss": 71
+        "scss": 71,
+        "jsonc": 10
     },
     "fileHeartbeats": {
         "src/app/films-list/films-list.component.ts": 113,
         "src/app/films-list/films-list.component.html": 119,
-        "src/app/components/films-list/films-list.component.ts": 200,
-        "src/app/app-routing.module.ts": 43,
+        "src/app/components/films-list/films-list.component.ts": 417,
+        "src/app/app-routing.module.ts": 134,
         "src/app/app.module.ts": 26,
-        "src/app/components/films-list/films-list.component.html": 52,
+        "src/app/components/films-list/films-list.component.html": 155,
         "d:\\GeeksHubs\\teaching\\katas\\ng3\\movieApp\\README.md.git": 10,
         "src/app/components/header/header.component.scss": 71,
         "src/app/components/header/header.component.html": 115,
-        "src/app/components/welcome/welcome.component.html": 68
+        "src/app/components/welcome/welcome.component.html": 68,
+        "src/app/service/movie.service.ts": 188,
+        "c:\\Users\\david\\AppData\\Roaming\\Code\\User\\settings.json": 10,
+        "src/app/components/movie-detail/movie-detail.component.ts": 196,
+        "src/app/components/movie-detail/movie-detail.component.html": 198
     }
 }

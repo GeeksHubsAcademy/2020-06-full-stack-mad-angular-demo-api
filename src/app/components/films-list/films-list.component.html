@@ -3,9 +3,11 @@
 <div class="movies">
     <div *ngFor="let pelicula of pelisMostrar">
         <p>{{pelicula.title}}</p>
-        <img width="200"height="288" 
+        <a routerLink="/detail" routerLinkActive="active-link">
+        <img width="200"height="288" (click)="MovieService.locateFilm(pelicula)"
             src="https://image.tmdb.org/t/p/w200/{{pelicula.poster_path}}" 
             alt="poster">
+        </a>
     </div>
 </div>
 
